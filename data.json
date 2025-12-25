@@ -1,1 +1,20 @@
-
+[
+  {
+    "name": "Push-up",
+    "level": "Beginner",
+    "muscles": "Chest, triceps, core",
+    "tip": "Keep your body straight and your core tight."
+  },
+  {
+    "name": "Pull-up",
+    "level": "Intermediate",
+    "muscles": "Back, biceps",
+    "tip": "Pull your chest toward the bar."
+  },
+  {
+    "name": "Squat",
+    "level": "Beginner",
+    "muscles": "Legs, glutes",
+    "tip": "Keep your heels on the ground."
+  }
+]
